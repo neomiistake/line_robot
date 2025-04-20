@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/line_ollama1/app.py;C:/Users/ben7u/PycharmProjects/robot/line_ollama1/main.py;C:/Users/ben7u/PycharmProjects/robot/line_ollama1/openai_main.py;C:/Users/ben7u/PycharmProjects/robot/line_ollama2/flask2.py;C:/Users/ben7u/PycharmProjects/robot/line_ollama2/model_name.py;C:/Users/ben7u/PycharmProjects/robot/line_ollama2/test.py;C:/Users/ben7u/PycharmProjects/robot/templates/index.html;C:/Users/ben7u/PycharmProjects/robot/flask_game.py" />
+  </component>
+</project>
